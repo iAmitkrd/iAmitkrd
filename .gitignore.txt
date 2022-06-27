@@ -1,12 +1,12 @@
 ##############################
 ## Java
 ##############################
-.mtj.tmp
-.class
-.jar
-.war
-.ear
-.nar
+./mtj.tmp
+./class
+./jar
+./war
+./ear
+./nar
 hs_err_pid
 
 ##############################
@@ -38,28 +38,28 @@ gradle-app.setting
 ## IntelliJ
 ##############################
 out
-.idea
-.idea_modules
-.iml
-.ipr
-.iws
+./idea
+./idea_modules
+./iml
+./ipr
+./iws
 
 ##############################
 ## Eclipse
 ##############################
-.settings
+./settings
 bin
 tmp
-.metadata
-.classpath
-.project
-.tmp
-.bak
-.swp
+./metadata
+./classpath
+./project
+./tmp
+./bak
+./swp
 ~.nib
 local.properties
-.loadpath
-.factorypath
+./loadpath
+./factorypath
 
 ##############################
 ## NetBeans
@@ -75,10 +75,10 @@ nb-configuration.xml
 ##############################
 ## Visual Studio Code
 ##############################
-.vscode
-.code-workspace
+./vscode
+./code-workspace
 
 ##############################
 ## OS X
 ##############################
-.DS_Store
+./DS_Store
